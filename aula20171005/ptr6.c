@@ -14,5 +14,6 @@ int main(){
     printf("\nCodigo:");
     for(i = 0; i < N/sizeof(int); i++) printf("%d ", varredura[i]);
     printf("\n");
+    
     return 0;
 }

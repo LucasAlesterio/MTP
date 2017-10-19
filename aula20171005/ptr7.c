@@ -10,7 +10,7 @@ int main(){
         printf("Entre com o codigo %d:\n", i+1);
     scanf("%d",&str[i]);
 }
-    printf("\nDado: %s",varredura);
+    printf("\nDado: %s",varredura); 
     
     return 0;
 }
